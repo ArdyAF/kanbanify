@@ -1,6 +1,6 @@
 # kanbanify
 
-On Progress, changing from vue to react, demo down belong still using vue.
+On Progress, changing from vue to react, demo down below still using vue.
 
 
 # Demo
